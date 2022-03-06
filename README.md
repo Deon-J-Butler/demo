@@ -1,12 +1,11 @@
-
-#Demo Project README
+# Demo Project README
 
 This is a simple readme file
 
 More text
 
-##Heading2
+## Heading2
 
-I'm on a branch BABY!
-This is bound to cause trouble
+Implementing a branch
+Overlap text on another branch
 Hope this doesnt hurt
